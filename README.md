@@ -1,5 +1,5 @@
 # snake-solver
-A simple snake game with p5.js and a solver with python.
+A simple snake game with p5.js and a solver with python. (Actually sketch.js solves it.)
 
 ![vokoscreenNG-2022-06-23_17-20-29](https://user-images.githubusercontent.com/85784378/175322293-ce42c8cd-37ea-4258-a462-2a44f5fd45b8.gif)
 
